@@ -98,3 +98,9 @@ a:hover{
     color: rgb(217, 206, 205);
 }
 <meta name="viewport"/>
+
+@media screen and (max-width: 1000px) {
+  .card{
+    height: 70vh;
+    width: 70vw;
+  }
