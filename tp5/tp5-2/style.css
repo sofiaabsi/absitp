@@ -1,0 +1,31 @@
+/* Styles pour le header */
+header{
+background-color: #3498db; /* Couleur de fond de la bannière */
+color: #fff; /* Couleur du texte */ text-align: center;
+padding: 20px;
+}
+/*Styles pour le titre dans le header */
+h1{
+    font-size: 36px;
+}
+/* Styles pour la section de contenu */ 
+section{
+   padding: 20px;}
+
+/* Styles pour le titre dans La section de contenu */
+h2 {
+font-size: 24px; color: #333;}
+
+/* Styles pour le texte dans La section de contenu */
+p {
+font-size: 18px; line-height: 1.5;
+color: #555;
+}
+
+/* Styles pour le pied de page */
+footer {
+background-color: #333; /* Couleur de fond du pied de page */ 
+color:#fff; /* Couleur du texte */ 
+text-align: center;
+padding: 10px; 
+}
