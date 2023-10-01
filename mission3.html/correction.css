@@ -1,0 +1,40 @@
+label{
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: lighter;
+}
+legend{
+    color: rgb(0, 0, 0); 
+    font-weight: 600;
+    font-size: x-large;
+    
+}
+body{
+    font-weight: lighter;
+}
+ .a{
+    color: rgb(29, 121, 32);
+    font-weight: 300;
+ }
+ body{
+    font-weight: lighter;
+    background-image: url( photo2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+div{
+    color: rgb(0, 0, 0);
+   background-color: rgb(157, 157, 200);
+   font-size: x-large;
+
+}
+button{
+    width: 100;
+    font-size: medium;
+    
+}
+a:hover{
+    color: rgb(236, 23, 23);
+}
