@@ -1,0 +1,2 @@
+function Calcul_moyenne() {
+}
