@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #061e47 ;
+  }
+  
+  .card{
+    background-color: rgb(119, 107, 96);
+    height: 70%;
+    width:30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+  
+}
+  
+  .card:hover{
+    height: 72%;
+     width: 33%;
+     transition: ease 0.3s;
+    
+  }  
+  
+  
+  h1{
+    color: #06070d;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+     }
+    
+  
+  p{
+    color: rgb(251, 251, 251);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont;
+    font-size: larger;
+    font-weight: 600;
+    line-height: 10px;
+    letter-spacing: 1px;
+    text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87
+    
+ }
+  p:hover{
+    color: #5bb4eb;
+  }
+           
+    
+    
+   
+
+ 
+    a{
+        color: rgb(193, 97, 206) ;
+        font-family:system-ui, -apple-system, BlinkMacSystemFont;
+        font-size: larger;
+        font-weight: 600;
+        line-height: 10px;
+        justify-content: center;
+        align-items: center;
+        text-shadow: 0 0 0.2em rgb(13, 13, 14), 0 0 0.2em rgb(13, 11, 11) }
+       
+
+    
+    img{
+        
+        object-fit:cover;
+        border: #061e47  solid;
+        -moz-border-radius : 80px;
+        -webkit-border-radius : 100px;
+        border-radius : 75px;
+        transition: var(--main-transition );
+        margin-right:3em;
+        display: flex;
+        margin-top: 10px;
+        margin-right: 50%;
+        height: 100%;
+        position: relative;bottom: 50px;
+        position: relative;left: 80px;
+        
+        
+    }
+        
+        
+        
+        
+        
+    body{
+        background-image: url(p.png);
+        background-size: cover;
+        font-display: flex;
+
+    }
+a:hover{
+    color: rgb(217, 206, 205);
+}
+<meta name="viewport"/>
