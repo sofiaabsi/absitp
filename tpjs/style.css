@@ -1,24 +1,37 @@
-body {
-    background-color: rgb(200, 161, 161);
+h1{
+
+    text-align: center;
+}
+input{
+
+   
+
+    
+    
+
+}
+button{
+
+  border: solid;
+  border-radius: 20px;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  
+
+}
+button:hover{
+
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+body{
+
+    background-color: rgb(142, 153, 173);
     
 }
+div{
 
-button {
-    width: 250px;
-    height: 200px;
-    background-color: rgb(189, 167, 167);
-    border: 2px solid white;
-    border-radius: 26px;
-    color: white;
-    font-size: 2em;
-    margin: 30px;
-    transition: 0.2s;
-
-}
-
-button:hover {
-    background-color: white;
-    border: 2px solid rgb(183, 77, 77);
-    color: black;
-    transition: 150ms;
+    margin-left: 35%;
 }
