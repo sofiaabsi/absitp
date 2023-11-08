@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(89, 74, 87);
+}
+
+button {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(239, 175, 175);
+    color: rgb(0, 0, 0);
+    border: 2px solid white;
+    border-radius: 26px;
+    font-size: 2em;
+    margin: 30px;
+    transition: 0.2s;
+}
+
+button:hover {
+    background-color: white;
+    color: rgb(121, 111, 111);
+    border: 2px solid black;
+    transition: 150ms;
+}
+h1{
+    color: azure;
+}
